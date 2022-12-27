@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Ritik-loves-to-code
-- 👀 I’m interested in Data Security, Gaming, Game Developement and Casual Coding
+- 👋 Hi, I’m, Ritik Raj Gupta
+- 👀 I’m interested in Data Security, Gaming, Game Developement and Coding
 - 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Just send me an email.
+- 📫 Reach me at ritikrajgupta1218@gmail.com
 
 <!---
 Ritik-loves-to-code/Ritik-loves-to-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
